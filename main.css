@@ -1,0 +1,29 @@
+table {
+  border-collapse: collapse;
+}
+td,
+th {
+  padding: 20px;
+  text-align: center;
+}
+tbody > tr:hover {
+  background-color: rgba(255, 255, 0, 0.568);
+}
+th {
+  background-color: brown;
+  color: white;
+}
+.Website {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+.a {
+  background-color: brown;
+  color: white;
+  text-align: center;
+}
+.s {
+  background-color: black;
+  color: white;
+}
